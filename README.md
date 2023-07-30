@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://psargar616.github.io/edie-homepage/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/Psargar616/edie-homepage">
       Solution
     </a>
     <span> | </span>
@@ -69,5 +69,5 @@ Challenge: Create a static page with HTML and CSS following the designs. Don’t
 ## Contact
 
 
-- GitHub [@Psargar616](https://{github.com/your-usermame})
+- GitHub [@Psargar616](https://github.com/Psargar616)
 
